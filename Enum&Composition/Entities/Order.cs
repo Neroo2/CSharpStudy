@@ -55,7 +55,7 @@ public class Order
         StringBuilder sb = new();
         sb.AppendLine($"OrderMoment: {Moment.ToString()}");
         sb.AppendLine($"Status: {Status}");
-        sb.AppendLine($"OrderMoment: {Client}");
+        sb.AppendLine($"Client: {Client}");
     
         foreach (OrderItem item in Items)
         {
