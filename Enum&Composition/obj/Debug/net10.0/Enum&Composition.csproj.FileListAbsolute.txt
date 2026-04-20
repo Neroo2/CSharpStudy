@@ -1,0 +1,15 @@
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\bin\Debug\net10.0\Enum&Composition.exe
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\bin\Debug\net10.0\Enum&Composition.deps.json
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\bin\Debug\net10.0\Enum&Composition.runtimeconfig.json
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\bin\Debug\net10.0\Enum&Composition.dll
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\bin\Debug\net10.0\Enum&Composition.pdb
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.AssemblyInfoInputs.cache
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.AssemblyInfo.cs
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.sourcelink.json
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.dll
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\refint\Enum&Composition.dll
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.pdb
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\Enum&Composition.genruntimeconfig.cache
+C:\Users\nelso\Documentos\C#Study\Enum&Composition\obj\Debug\net10.0\ref\Enum&Composition.dll

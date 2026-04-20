@@ -1,4 +1,6 @@
 using System;
+using System.Globalization;
+using System.Text;
 using Enum_Composition.Entities.Enums;
 using Microsoft.VisualBasic;
 
@@ -12,6 +14,11 @@ public class Order
     List<OrderItem> Items = new();
     Client Client;
 
+
+    public Order()
+    {
+        
+    }
 
     public Order(DateTime moment, OrderStatus status, Client client)
     {
@@ -41,6 +48,24 @@ public class Order
         }
 
         return sumTotal;
+    }
+
+    public override string ToString()
+    {
+        StringBuilder sb = new();
+        sb.AppendLine($"OrderMoment: {Moment.ToString()}");
+        sb.AppendLine($"Status: {Status}");
+        sb.AppendLine($"OrderMoment: {Client}");
+    
+        foreach (OrderItem item in Items)
+        {
+            sb.AppendLine(item.ToString());
+        }
+
+        sb.AppendLine($"Total price = {Total().ToString("F2", CultureInfo.InvariantCulture)}");
+
+        return sb.ToString();
+
     }
 
 

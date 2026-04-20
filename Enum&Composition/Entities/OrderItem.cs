@@ -23,4 +23,10 @@ public class OrderItem
     }
 
 
+    public override string ToString()
+    {
+        return $"Name {Product.Name}, Price = {Price}, Quantity = {Quantity}";
+    }
+
+
 }
