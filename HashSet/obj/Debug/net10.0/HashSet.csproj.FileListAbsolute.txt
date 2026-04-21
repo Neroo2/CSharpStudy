@@ -1,0 +1,15 @@
+C:\Users\nelso\Documentos\C#Study\HashSet\bin\Debug\net10.0\HashSet.exe
+C:\Users\nelso\Documentos\C#Study\HashSet\bin\Debug\net10.0\HashSet.deps.json
+C:\Users\nelso\Documentos\C#Study\HashSet\bin\Debug\net10.0\HashSet.runtimeconfig.json
+C:\Users\nelso\Documentos\C#Study\HashSet\bin\Debug\net10.0\HashSet.dll
+C:\Users\nelso\Documentos\C#Study\HashSet\bin\Debug\net10.0\HashSet.pdb
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.AssemblyInfoInputs.cache
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.AssemblyInfo.cs
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.sourcelink.json
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.dll
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\refint\HashSet.dll
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.pdb
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\HashSet.genruntimeconfig.cache
+C:\Users\nelso\Documentos\C#Study\HashSet\obj\Debug\net10.0\ref\HashSet.dll

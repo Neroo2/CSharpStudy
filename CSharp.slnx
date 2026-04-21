@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AbstractClasses/AbstractClasses.csproj" />
   <Project Path="Enum&amp;Composition/Enum&amp;Composition.csproj" />
+  <Project Path="HashSet/HashSet.csproj" />
   <Project Path="Inheritance&amp;Polymorphism/Inheritance&amp;Polymorphism.csproj" />
   <Project Path="Interfaces/Interfaces.csproj" />
 </Solution>
